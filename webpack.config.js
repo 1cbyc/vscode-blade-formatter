@@ -1,6 +1,7 @@
 //@ts-check
 
-const path = require("node:path:path");
+// const path = require("node:path:path");
+const path = require("path");
 const nodeExternals = require("webpack-node-externals");
 const Dotenv = require("dotenv-webpack");
 
